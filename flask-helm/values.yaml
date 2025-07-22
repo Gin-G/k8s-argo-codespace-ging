@@ -6,5 +6,5 @@ webapp:
   path: /
   welcomeMessage: "Hi this is Nick"
   container: 
-    image: docker.io/ncging/argo-flask-demo:2025-06-24.16.33
+    image: docker.io/ncging/argo-flask-demo:bad-tag
     port: 5000
